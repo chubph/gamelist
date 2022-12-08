@@ -3,7 +3,7 @@ import Gamelist from "@/components/GameList.vue";
 </script>
 
 <template>
- <h2>Hi</h2>
+ <h2>Hipo</h2>
 
   <gamelist></gamelist>
 </template>
